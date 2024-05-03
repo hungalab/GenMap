@@ -6,7 +6,7 @@ prettytable==0.7.2
 PuLP==2.4
 pydot==1.4.1
 pygmo==2.9
-tqdm==4.31.1
+tqdm==4.66.3
 cvxpy==1.1.10
 seaborn==0.11.1
 # the following is optional
